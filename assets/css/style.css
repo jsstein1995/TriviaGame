@@ -1,0 +1,43 @@
+body{
+background-image: url("Screen Shot 2019-03-10 at 2.05.48 PM.png"); 
+}
+.container{
+    background-color: #e24329;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 110px;
+    padding-bottom: 120px;
+}
+
+#main {
+    font-family: "Times New Roman", Times, serif;
+}
+div {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+#category { 
+    color: orange;
+}
+.header {
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+    font-family: cursive;
+}
+#timer {
+    padding-bottom: 15px;
+    color: purple;
+}
+#questions {
+    color: white;
+    text-align: center;
+    font-size: 23px;
+    text-decoration: aqua;
+}
+#anwsers {
+    padding-top:10px;
+    font-style: italic;
+}
+#questions {
+    color: white;
+}
