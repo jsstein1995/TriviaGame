@@ -1,8 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Asap:400,500,700|Work+Sans');
+.header {
+    font-family: "Asap", sans-serif;
+    color: white;
+}
 body{
-background-image: url("Screen Shot 2019-03-10 at 2.05.48 PM.png"); 
+background-image: url("Screen Shot 2019-03-10 at 2.05.48 PM.png");
+height: 100%;
 }
 .container{
-    background-color: #e24329;
+    background-color: #24272E;
     text-align: center;
     margin-top: 30px;
     padding-top: 110px;
@@ -10,34 +16,44 @@ background-image: url("Screen Shot 2019-03-10 at 2.05.48 PM.png");
 }
 
 #main {
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Asap", sans-serif;
+    color: white;
 }
 div {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Asap", sans-serif;
     font-size: 20px;
 }
 #category { 
     color: orange;
 }
-.header {
-    font-family: "Times New Roman", Times, serif;
-    color: white;
-    font-family: cursive;
-}
+
+
 #timer {
     padding-bottom: 15px;
     color: purple;
 }
-#questions {
+
+h2 {
     color: white;
+    margin-top: 60px;
+    font-size: 25px;
+    font-family: 'Work Sans', sans-serif;
+}
+#questions {
+    color: lightgrey;
     text-align: center;
-    font-size: 23px;
+    font-size: 20px;
     text-decoration: aqua;
+    font-family: 'Work Sans', sans-serif;
 }
 #anwsers {
     padding-top:10px;
     font-style: italic;
 }
-#questions {
-    color: white;
+
+#done {
+    margin-top: 30px;
+}
+#reset {
+    margin-top: 20px;
 }
